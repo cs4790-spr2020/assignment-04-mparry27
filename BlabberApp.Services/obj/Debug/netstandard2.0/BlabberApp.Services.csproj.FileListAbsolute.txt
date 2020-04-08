@@ -1,0 +1,13 @@
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.Services.deps.json
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.Services.dll
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.Services.pdb
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.DataStore.dll
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.Domain.dll
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.DataStore.pdb
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\bin\Debug\netstandard2.0\BlabberApp.Domain.pdb
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\obj\Debug\netstandard2.0\BlabberApp.Services.csprojAssemblyReference.cache
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\obj\Debug\netstandard2.0\BlabberApp.Services.AssemblyInfoInputs.cache
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\obj\Debug\netstandard2.0\BlabberApp.Services.AssemblyInfo.cs
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\obj\Debug\netstandard2.0\BlabberApp.Services.csproj.CopyComplete
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\obj\Debug\netstandard2.0\BlabberApp.Services.dll
+D:\Documents\DotNet\BlabberApp\assignment-04-mparry27\BlabberApp.Services\obj\Debug\netstandard2.0\BlabberApp.Services.pdb
